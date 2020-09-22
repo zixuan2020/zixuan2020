@@ -2,7 +2,7 @@
 
 
 
-欢迎访问我的[博客](https://zixuan007.top/)
+欢迎访问我的[博客](http://zixuan007.top/)
 
 * 只会撸树的Minecraft Bedrock 玩家 <img src="https://raw.githubusercontent.com/mzdluo123/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
 
